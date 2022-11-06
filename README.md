@@ -1,2 +1,10 @@
-# rceth_analysis
-Analysys of State Register of Medicines of the Republic of Belarus
+# Анализ Государственного реестра лекарственных средств Республики Беларусь
+#### Репозиторий состоит следующих частей:
+1) Папка 'rceth', содержащая парсер [реестра ЦЭИЗ](https://rceth.by/Refbank/reestr_lekarstvennih_sredstv/results)
+2) Ноутбук с подготовкой, визуализацией и анализом данных 'rceth_analysis.ipynb'
+
+Парсинг АТХ-кодов осуществлялся с помощью [скрипта](https://github.com/fabkury/atcd)
+
+Данные актуальны на 06.11.2022
+
+- Анализ может содержать некоторые ошибки и неточности
